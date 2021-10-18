@@ -59,10 +59,10 @@ If our paper is helpful to your work, please consider citing it!
 
 ```bibtex
 @inproceedings{slim2022_transil,
-    author = {Slim, Habib and Belouadah, Eden and Popescu, Adrian and Onchis, Darian},
-    title = {Dataset Knowledge Transfer for Class-Incremental Learning Without Memory},
+    author    = {Slim, Habib and Belouadah, Eden and Popescu, Adrian and Onchis, Darian},
+    title     = {Dataset Knowledge Transfer for Class-Incremental Learning Without Memory},
     booktitle = {The IEEE Winter Conference on Applications of Computer Vision (WACV)},
-    year = {2022}
+    year      = {2022}
 }
 ```
 
