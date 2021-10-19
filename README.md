@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8.5-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/Pytorch-1.7.1-red?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-\[[Paper](http://todo.todo)\] \[[Slides](http://todo.todo)\]
+\[[Paper](https://arxiv.org/abs/2110.08421)\] \[[Slides](http://todo.todo)\]
 
 <p align="center">
     <img src="./main_figure.png"/>
@@ -24,8 +24,8 @@
 
 ## Introduction
 
-This repository contains the PyTorch implementation for the [WACV 2022](https://wacv2022.thecvf.com/) Paper ["Dataset Knowledge Transfer for Class-Incremental Learning Without Memory"](http://todo.todo).
-This paper is the result of an internship research project conducted at [CEA-LIST](http://www-list.cea.fr/en/). Our work tackles bias-correction in incrementally learned models when no rehearsal memory is available (check out the [paper](http://todo.todo) for more info!).
+This repository contains the PyTorch implementation for the [WACV 2022](https://wacv2022.thecvf.com/) Paper ["Dataset Knowledge Transfer for Class-Incremental Learning Without Memory"](https://arxiv.org/abs/2110.08421).
+This paper is the result of an internship research project conducted at [CEA-LIST](http://www-list.cea.fr/en/). Our work tackles bias-correction in incrementally learned models when no rehearsal memory is available (check out the [paper](https://arxiv.org/abs/2110.08421) for more info!).
 
 Feel free to open a GitHub issue if you encounter any problem with the code, or if you have any question about the paper.
 
