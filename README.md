@@ -55,7 +55,7 @@ For instructions on how to train and run on top of all other methods/datasets, p
 
 ## Citation
 
-If our paper is helpful to your work, please consider citing it!
+If our paper is helpful for your work, please consider citing it!
 
 ```bibtex
 @inproceedings{slim2022_transil,
