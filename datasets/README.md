@@ -1,4 +1,8 @@
-## Datasets
+# Datasets
+
+<p align="center">
+    <img src="../img/datasets_fig.png" />
+</p>
 
 This folder contains all image splits used in the paper.
 First extract all lists by running the following command:

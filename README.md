@@ -9,7 +9,7 @@
 \[[Paper](https://arxiv.org/abs/2110.08421)\] \[[Slides](http://todo.todo)\]
 
 <p align="center">
-    <img src="./main_figure.png"/>
+    <img src="./img/main_fig.svg" width=600px/>
 </p>
 </div>
 

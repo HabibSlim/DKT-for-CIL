@@ -1,4 +1,4 @@
-## Environments
+# Environments
 
 We provide in this folder the two environments necessary to run the training code and optimizing the bias correction layers.
 To install them using conda, run the following commands:
